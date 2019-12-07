@@ -1,2 +1,2 @@
 # Fit2Drink
-This is the arduino code to my project Fit2Drink
+This repository contains the Arduino IDE code of my major project "Fit2Drink" for PIS course in 1st semester of IIIT-Delhi.
